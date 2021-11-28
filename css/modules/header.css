@@ -58,5 +58,6 @@
   .container--header {
     flex-direction: column;
     padding: 1.25rem;
+    gap: 2rem;
   }
 }

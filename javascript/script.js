@@ -27,4 +27,4 @@ const progressInterval = setInterval(() => progress(), 500);
 
 setTimeout(() => {
     clearInterval(progressInterval)
-}, 15000);
+}, 30000);
