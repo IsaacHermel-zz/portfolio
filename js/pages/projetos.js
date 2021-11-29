@@ -28,7 +28,7 @@ const projetos = `
                     </ul>
                 </div>
                 <div class="projetos--image">
-                    <img src="../img/bootstrap.png" alt="Bootstrap 4 Website"/>
+                    <img src="./img/bootstrap.png" alt="Bootstrap 4 Website"/>
                 </div>
             </li>
         </ul>
