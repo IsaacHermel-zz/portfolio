@@ -42,7 +42,7 @@
   font-size: 7rem;
   position: absolute;
   bottom: -4.25rem;
-  left: 2rem;
+  left: 7.5%;
   animation: levitating 4s infinite;
 }
 
@@ -144,5 +144,9 @@
     grid-template-columns: 1fr;
     padding: 3.75rem 1.25rem;
     gap: 2.5rem;
+  }
+  .tecnologias::after {
+    bottom: -3.5rem;
+    left: 80%;
   }
 }

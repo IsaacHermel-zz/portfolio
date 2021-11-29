@@ -10,7 +10,7 @@ const experiencia = `
   </p>
   <!-- Umbler -->
   <div class="empresa">
-    <span class="empresa--year">2020</span>
+    <span class="empresa--year">2020 - Atualmente</span>
     <h3 class="empresa--title">Umbler</h3>
     <span class="empresa--title">Estagiário</span>
     <p class="empresa--text">
