@@ -97,10 +97,10 @@
 }
 
 .formacao--courses h3::before {
-  background: url("./../../img/cursos.svg") no-repeat center center;
+  background: url("./portfolio/img/cursos.svg") no-repeat center center;
 }
 .formacao--languages h3::before {
-  background: url("./../../img/idiomas.svg") no-repeat center center;
+  background: url("./portfolio/img/idiomas.svg") no-repeat center center;
 }
 
 .formacao--extra li {

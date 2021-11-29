@@ -52,7 +52,7 @@
 /* Responsivity */
 
 @media (max-width: 50rem) {
-  .container--header img {
+  .container--header h1 a {
     display: none;
   }
   .container--header {
