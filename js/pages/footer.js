@@ -1,7 +1,7 @@
 const footer = `
 <div class="container">
   <p class="footer--text">
-    Estou disponível para novos projetos no momento. Entre em contato para
+    Estou disponível para novos projetos de desenvolvimento no momento. Entre em contato para
     conversarmos! 😁
   </p>
   <ul class="footer--contact">
