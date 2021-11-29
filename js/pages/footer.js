@@ -24,7 +24,7 @@ const footer = `
     </li>
   </ul>
   <p class="footer--copy">
-    Isaac Hermel Reginato. &copy; Alguns direitos reservados.
+    Isaac Hermel Reginato. &copy; Todos os direitos reservados.
   </p>
 </div>
 `;
