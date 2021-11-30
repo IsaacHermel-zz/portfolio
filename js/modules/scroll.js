@@ -12,8 +12,8 @@ const smoothScroll = () => {
     let offsetTop = document.querySelector(href).offsetTop;
 
     href === "#introducao"
-      ? (offsetTop = offsetTop - 240)
-      : (offsetTop = offsetTop - 120);
+      ? (offsetTop = offsetTop - 200)
+      : (offsetTop = offsetTop - 99);
 
     scroll({
       top: offsetTop,
