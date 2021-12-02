@@ -24,7 +24,7 @@ const smoothScroll = () => {
     setTimeout(function () {
       snackbar.classList.toggle("show");
     }, 2000);
-  }
+  };
 };
 
 export default smoothScroll;

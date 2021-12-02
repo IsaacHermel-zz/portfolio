@@ -94,6 +94,28 @@ const tecnologias = `
         ></div>
       </div>
     </li>
+    <li>
+      Hosting
+      <div class="progress">
+      <span class="tooltip">55%</span>
+        <div
+          class="progress--value"
+          id="progress--hosting"
+          style="--value: 55"
+        ></div>
+      </div>
+    </li>
+    <li>
+      E-mail
+      <div class="progress">
+        <span class="tooltip">50%</span>
+        <div
+          class="progress--value"
+          id="progress--email"
+          style="--value: 50"
+        ></div>
+      </div>
+    </li>
   </ul>
 </div>
 `;

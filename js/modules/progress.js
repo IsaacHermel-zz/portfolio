@@ -18,7 +18,7 @@ const progress = () => {
         (window.innerHeight || document.documentElement.clientHeight) &&
       rect.right <= (window.innerWidth || document.documentElement.clientWidth)
     );
-  }
+  };
 };
 
 export default progress;

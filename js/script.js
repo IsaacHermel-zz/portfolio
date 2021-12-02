@@ -4,7 +4,6 @@ import progress from "./modules/progress.js";
 import newElement from "./modules/newElement.js";
 
 // Pages
-
 import header from "./pages/header.js";
 import introducao from "./pages/introducao.js";
 import experiencia from "./pages/experiencia.js";
@@ -13,7 +12,6 @@ import tecnologias from "./pages/tecnologias.js";
 import projetos from "./pages/projetos.js";
 import footer from "./pages/footer.js";
 
-// Footer
 newElement('header', header);
 newElement('introducao', introducao);
 newElement('experiencia', experiencia);
@@ -22,7 +20,10 @@ newElement('tecnologias', tecnologias);
 newElement('projetos', projetos);
 newElement('footer', footer);
 
+// Smooth Scrolling
 smoothScroll();
+
+// Progress bars
 const progressInterval = setInterval(() => progress(), 500); 
 
 setTimeout(() => {

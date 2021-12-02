@@ -136,7 +136,12 @@
 .progress--value#progress--github {
   background: #161312;
 }
-
+.progress--value#progress--hosting {
+  background: #2e416b;
+}
+.progress--value#progress--email {
+  background: #DC4639;
+}
 /* Responsivity */
 
 @media (max-width: 50rem) {
